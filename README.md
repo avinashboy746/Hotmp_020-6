@@ -1,11 +1,15 @@
-<div align="center">
+🎮 Welcome to AvinashBOY Public Server!
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+🌍 Join our 24/7 Survival Server and play with an amazing community!
 
-  <h1>Built with AI Studio</h2>
+🎯 Server IP: "play.avinashboy.qzz.io"
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+🛒 Buy Ranks & Items:
+https://store.avinashboy.qzz.io
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+💬 Join Our Discord:
+https://discord.gg/Kx8n624VR
 
-</div>
+🔥 Hey bro! Come join our server, play with us, and invite your friends. You can purchase ranks and perks from our store and get support on Discord!
+
+🚀 See you in-game!
